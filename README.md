@@ -1,18 +1,21 @@
 // Francisco Javier baltazar de los santos_20887045_4_E.
 // José Octavio Hernández Arcos_20887043_4_E//
 
+
+
+
 using System;
 using System.Threading;
 namespace Menoramayor
 {
-    class Program
+   class Program
     {
-        private static int i;
+       private static int i;
 
-        public static void Main(string[] args)
+      public static void Main(string[] args)
         {
 
-            int mydelay = 2000;
+         int mydelay = 2000;
             {
 
                 //Creamos un vector (Array) de enteros con una longitud de 5 elementos
