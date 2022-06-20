@@ -2,10 +2,10 @@
 // José Octavio Hernández Arcos_20887043_4_E
 
 
-
-
 using System;
+
 using System.Threading;
+
 namespace Menoramayor
 {
    class Program
